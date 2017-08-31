@@ -1,0 +1,2 @@
+export SENDGRID_USERNAME=Mariana24
+export SENDGRID_PASSWORD=mariana2003
